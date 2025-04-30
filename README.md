@@ -8,8 +8,8 @@ Java와 Spring Boot를 중심으로 비즈니스 로직을 설계하고, 유지�
 데이터베이스는 **MySQL**과 **Redis**를 활용한 경험이 있으며, 관계형 데이터 처리에 익숙합니다.  
 또한 **GitHub Actions**, **Docker**, **Amazon EC2** 등을 사용하여 **CI/CD 파이프라인을 구성**해 본 경험도 가지고 있습니다.
 
-최근에는 **Kafka**, **RabbitMQ**, **SSE(Server-Sent Events)** 등을 활용해  
-**비동기 메시징**과 **실시간 알림 시스템** 구현에도 흥미를 가지고 공부 중입니다.
+최근에는 **Kafka**, **RabbitMQ**, **SSE(Server-Sent Events)** **WebSocket**등을 활용해  
+**비동기 메시징**과 **실시간 알림** **실시간 채팅** 구현에도 흥미를 가지고 공부 중입니다.
 
 ---
 
