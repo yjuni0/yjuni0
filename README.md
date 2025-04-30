@@ -28,15 +28,17 @@ Java와 Spring Boot를 중심으로 비즈니스 로직을 설계하고, 유지�
 <!-- DB / Cache / MQ -->
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?logo=rabbitmq&logoColor=white)
 
 <!-- AWS & DevOps -->
 ![Amazon AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-%23316192.svg?logo=amazons3&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-%23316192.svg?logo=amazonrds&logoColor=white)
+![CodeDeploy](https://img.shields.io/badge/CodeDeploy-%23232F3E.svg?logo=amazoncodedeploy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
 
 <!-- 기타 -->
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?logo=rabbitmq&logoColor=white)
 ![SSE](https://img.shields.io/badge/SSE-%23232F3E.svg?logo=serverless&logoColor=white)
 
 <p align="center">
